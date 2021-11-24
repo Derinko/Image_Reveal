@@ -12,6 +12,7 @@ main{
     grid-template-columns: 40% 60%;
     font-family: 'Poppins', sans-serif;
     color: #FFFFFF;
+    
 }
 .BG>img{
     width: 100%;

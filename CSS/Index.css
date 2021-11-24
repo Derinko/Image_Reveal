@@ -12,6 +12,7 @@ main{
     grid-template-rows: 10% 80% 10%;
     font-family: 'Poppins', sans-serif;
     color: #FFFFFF;
+    background-image: url("/IMAGES/bg.jpg");
 }
 nav{
     background-color: #607E85;
@@ -19,7 +20,8 @@ nav{
     grid-row: 1/1;
     width: 100vw;
     height: 100%;
- 
+    padding-top: 1%;
+    padding-left: 2%;
 }
 .body{
     grid-row: 2/2;
@@ -46,5 +48,7 @@ footer{
     grid-row: 3/3;
     width: 100vw;
     height: 100%;
+    padding-top: 1%;
+    padding-left: 2%;
   
 }
